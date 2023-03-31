@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/high-card-bootcamp/static/css/main.731e0bd7.css",
+    "main.js": "/high-card-bootcamp/static/js/main.cc24f14e.js",
+    "index.html": "/high-card-bootcamp/index.html",
+    "main.731e0bd7.css.map": "/high-card-bootcamp/static/css/main.731e0bd7.css.map",
+    "main.cc24f14e.js.map": "/high-card-bootcamp/static/js/main.cc24f14e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.731e0bd7.css",
+    "static/js/main.cc24f14e.js"
+  ]
+}
